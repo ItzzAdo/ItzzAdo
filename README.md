@@ -6,10 +6,9 @@
 </div>
 
 ### About me
-* 📊 I'm a developer focusing on **Lua** scripting.
+* 📊 I'm a **FiveM developer** focusing on **Lua** scripting.
 * 📚 I'm currently learning **CSS** to improve my web design skills.
-* 🚀 I'm working on my personal projects.
-* 👤 Pronouns: He/Him
+* 👤 Pronouns: **He/Him**
 
 ---
 
