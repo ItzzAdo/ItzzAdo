@@ -5,12 +5,6 @@
   <img src="https://img.shields.io/badge/Languages-Czech-blue" alt="Czech" />
 </div>
 
-### About me
-* 📊 I'm a **FiveM developer** focusing on **Lua** scripting.
-* 📚 I'm currently learning **CSS** to improve my web design skills.
-* 👤 Pronouns: **He/Him**
-
----
 
 ### Skills
 * **Languages:**
