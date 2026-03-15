@@ -6,9 +6,9 @@
 </div>
 
 ### About me
-* 📊 I'm a developer, building cool projects.
-* 🚀 I'm currently working on my personal things.
-* ⭐ I'm interested in Lua scripting.
+* 📊 I'm a developer focusing on **Lua** scripting.
+* 📚 I'm currently learning **CSS** to improve my web design skills.
+* 🚀 I'm working on my personal projects.
 * 👤 Pronouns: He/Him
 
 ---
@@ -16,11 +16,12 @@
 ### Skills
 * **Languages:**
   <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original.svg" width="40" height="40" alt="Lua" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="CSS3" />
   </p>
 
 * **Softwares and Tools:**
   <p align="left">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" />
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="GitHub" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="VS Code" />
   </p>
