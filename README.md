@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi, I'm Jesus</h1>
+  <h1>Hi, I'm Majsner</h1>
   <img src="https://komarev.com/ghpvc/?username=ItzzAdo&label=Profile%20views&color=0e75b6&style=flat" alt="ItzzAdo" />
   <img src="https://img.shields.io/badge/Languages-English-blue" alt="English" />
   <img src="https://img.shields.io/badge/Languages-Czech-blue" alt="Czech" />
